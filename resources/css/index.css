@@ -1,0 +1,17 @@
+* {
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+  background-image: image("file:///Users/rachelwurmbrand/Documents/Projects/BeachParadise/resources/beach.jpg")
+}
+
+h2, li {
+  text-align: left;
+}
+
+h1, h2 {
+  color: DarkGreen;
+}
+
+h4 {
+  color: SeaGreen;
+}
